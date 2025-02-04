@@ -34,7 +34,7 @@ Multiple classifier models were tried, including NaiveBayes, random forest, KNN,
 The model was deployed on the web using Streamlit. The user interface has a simple input box where the user can input a message, and the model will predict whether it is spam or not spam.
 
 ## Demo
-To try out the SMS Spam Detection model, visit [here](https://akash-spam-emai-detection.streamlit.app/).
+To try out the SMS Spam Detection model, visit [here](https://spam-shield-dz46.onrender.com/).
 
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
@@ -42,11 +42,11 @@ To use the SMS Spam Detection model on your own machine, follow these steps:
 + Clone this repository.
 + Install the required Python packages using 
 ```
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
 + Run the model using 
 ```
-streamlit run app.py.
+streamlit run app.py
 ```
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please open an issue or a pull request on this repository.
